@@ -5,6 +5,6 @@ function entrar(){
     if (login =="adm"  && senha =="adm"){
         alert("Sucesso!");
     }else{
-        alert("senha incorreta! por favor digite novamente!");
+        alert("Senha incorreta! por favor digite novamente!");
     }
 }
